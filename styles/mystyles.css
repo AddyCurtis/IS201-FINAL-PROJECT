@@ -39,11 +39,13 @@ body {
     color: rgba(0, 113, 128, 0.815);
 }
 
+
 .link-styling {
     color:rgb(20, 40, 220) !important;
     transition: color .3s ease;
     text-decoration: underline;
 }
+
 .link-styling:hover {
     color:cadetblue !important;
     text-decoration: underline;
